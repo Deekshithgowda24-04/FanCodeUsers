@@ -1,3 +1,4 @@
+
 # FanCode Users Todos Completion Percentage Verification
 
 This project automates the verification that more than 50% of users from the FanCode city have completed their todos tasks using API automation with Rest Assured and Cucumber. 
